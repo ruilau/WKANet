@@ -1,5 +1,5 @@
 # WKANet
-Code for" WKA-Net: Wavelet-Guided KAN-Adaptive Network with Dual-Stream Boundary Prior for Polyp Segmentation"
+Code for"WKA-Net: A Wavelet-Guided Network with Boundary-Aware Feature Fusion for Polyp Segmentation"
  
 ## 📢 Announcement
 
